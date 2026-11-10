@@ -33,15 +33,8 @@ foco:      DevOps • Backend • Cibersegurança
 estudo:    Ciência da Computação @ AFYA São Lucas (2028)
 trabalho:  Estagiário DevOps @ SEDAM (GERDES) — GOVCLIMA
 paixao:    Automação, infraestrutura como código, CTF e anime
-idiomas:   Português (nativo) • Inglês (intermediário)
+idiomas:   Português (nativo) • Inglês (avançado)
 ```
-
-> _"Eu não paro. Não desisto. Se cair, eu levanto."_
-> — a energia de todo protagonista que treina até sangrar.
-
-Atualmente construindo pipelines de **observabilidade** para dados ambientais do governo,
-quebrando CTFs no tempo livre e automatizando tudo que dá pra automatizar.
-Apaixonado por ir fundo no metal — de um hook no kernel a um dashboard no Grafana.
 
 ---
 
