@@ -42,7 +42,7 @@ idiomas:   Português (nativo) • Inglês (avançado)
 
 ### 💻 Linguagens
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,py,c,html,css,sql" alt="Linguagens"/>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,py,html,sql" alt="Linguagens"/>
 </p>
 
 ### ☁️ DevOps & Observabilidade
@@ -61,7 +61,7 @@ idiomas:   Português (nativo) • Inglês (avançado)
 
 | Categoria | Ferramentas |
 | :--- | :--- |
-| **Linguagens** | JavaScript (Node.js), Python, SQL, C, HTML/CSS |
+| **Linguagens** | JavaScript (Node.js), Python, SQL, HTML |
 | **DevOps & Orquestração** | Docker, Docker Compose, Kubernetes (RKE2, k3s), Terraform, Helm, Traefik Ingress |
 | **Observabilidade** | Prometheus, Grafana, Loki, cAdvisor |
 | **Segurança** | Nmap, Web Scraping (Python), análise de vulnerabilidades |
