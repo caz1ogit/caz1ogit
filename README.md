@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ══════════════════ HEADER ANIMADO ══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D32F2F,50:1F6FEB,100:0D1117&height=200&section=header&text=Cassio%20Bona%20Eulalio&fontSize=55&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=DevOps%20%7C%20Backend%20%7C%20Seguran%C3%A7a&descAlignY=60&descSize=20" width="100%"/>
+<!-- ══════════════════ HEADER: TERMINAL DESCRIPTOGRAFANDO ══════════════════ -->
+<img src="./assets/decrypt-header.svg" alt="Terminal descriptografando: Cassio Bona Eulalio" width="100%"/>
 
 <!-- TYPING EFFECT -->
 <a href="https://git.io/typing-svg">
@@ -19,11 +19,13 @@
   <img src="https://img.shields.io/badge/Porto%20Velho-RO%20%7C%20Brasil-1F6FEB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização"/>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=cassiobona&label=Visitantes&color=58A6FF&style=for-the-badge" alt="Visitantes"/>
+
 </div>
 
 ---
 
-##  Sobre mim
+## 🌸 Sobre mim
 
 ```yaml
 nome:      Cassio Bona Eulalio
@@ -31,9 +33,11 @@ foco:      DevOps • Backend • Cibersegurança
 estudo:    Ciência da Computação @ AFYA São Lucas (2028)
 trabalho:  Estagiário DevOps @ SEDAM (GERDES) — GOVCLIMA
 paixao:    Automação, infraestrutura como código, CTF e anime
-idiomas:   Português (nativo) • Inglês (avançado)
+idiomas:   Português (nativo) • Inglês (intermediário)
 ```
 
+> _"Eu não paro. Não desisto. Se cair, eu levanto."_
+> — a energia de todo protagonista que treina até sangrar.
 
 Atualmente construindo pipelines de **observabilidade** para dados ambientais do governo,
 quebrando CTFs no tempo livre e automatizando tudo que dá pra automatizar.
@@ -101,9 +105,11 @@ Apaixonado por ir fundo no metal — de um hook no kernel a um dashboard no Graf
 ### 🥉 3º Lugar — Capture The Flag (CTF)
 **Conexão Tech — SETIC** · *Nov 2026* · Porto Velho, RO
 
+Desafios de **forense digital** e **análise de logs**: investigação de artefatos, correlação de eventos e resposta a incidentes.
+
 <img src="https://img.shields.io/badge/CTF-3%C2%BA%20Lugar-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black" alt="CTF"/>
-<img src="https://img.shields.io/badge/Ciberseguran%C3%A7a-An%C3%A1lise%20Defensiva-black?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cyber"/>
-<img src="https://img.shields.io/badge/Pentest-Explora%C3%A7%C3%A3o-D32F2F?style=for-the-badge&logo=target&logoColor=white" alt="Pentest"/>
+<img src="https://img.shields.io/badge/Forense-Digital-black?style=for-the-badge&logo=searxng&logoColor=white" alt="Forense Digital"/>
+<img src="https://img.shields.io/badge/Logs-An%C3%A1lise-1F6FEB?style=for-the-badge&logo=elasticstack&logoColor=white" alt="Análise de Logs"/>
 
 </div>
 
