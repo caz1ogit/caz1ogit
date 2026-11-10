@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ══════════════════ HEADER: TERMINAL DESCRIPTOGRAFANDO ══════════════════ -->
-<img src="./assets/decrypt-header.svg" alt="Terminal descriptografando: Cassio Bona Eulalio" width="100%"/>
+<img src="./assets/decrypt-header.svg" alt="Cassio Bona Eulalio — descriptografia" width="100%"/>
 
 <!-- TYPING EFFECT -->
 <a href="https://git.io/typing-svg">
@@ -32,9 +32,12 @@ nome:      Cassio Bona Eulalio
 foco:      DevOps • Backend • Cibersegurança
 estudo:    Ciência da Computação @ AFYA São Lucas (2028)
 trabalho:  Estagiário DevOps @ SEDAM (GERDES) — GOVCLIMA
-paixao:    Automação, infraestrutura como código, CTF e anime
-idiomas:   Português (nativo) • Inglês (avançado)
+paixao:    Automação, infraestrutura como código e CTF
+idiomas:   Português (nativo) • Inglês (intermediário)
 ```
+
+Atualmente construindo pipelines de **observabilidade** para dados ambientais do governo,
+quebrando CTFs no tempo livre e automatizando tudo que dá pra automatizar.
 
 ---
 
