@@ -19,8 +19,6 @@
   <img src="https://img.shields.io/badge/Porto%20Velho-RO%20%7C%20Brasil-1F6FEB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=cassiobona&label=Visitantes&color=58A6FF&style=for-the-badge" alt="Visitantes"/>
-
 </div>
 
 ---
