@@ -25,7 +25,7 @@
 
 ---
 
-## 🌸 Sobre mim
+## Sobre mim
 
 ```yaml
 nome:      Cassio Bona Eulalio
@@ -41,7 +41,7 @@ quebrando CTFs no tempo livre e automatizando tudo que dá pra automatizar.
 
 ---
 
-## ⚔️ Arsenal Técnico
+## Arsenal Técnico
 
 ### 💻 Linguagens
 <p align="left">
@@ -75,7 +75,7 @@ quebrando CTFs no tempo livre e automatizando tudo que dá pra automatizar.
 
 ---
 
-## 🎓 Educação & Certificações
+## Educação & Certificações
 
 <table>
 <tr>
@@ -94,7 +94,7 @@ quebrando CTFs no tempo livre e automatizando tudo que dá pra automatizar.
 
 ---
 
-## 🏆 Conquistas
+## Conquistas
 
 <div align="center">
 
