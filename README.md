@@ -31,7 +31,7 @@
 nome:      Cassio Bona Eulalio
 foco:      DevOps • Backend • Cibersegurança
 estudo:    Ciência da Computação @ AFYA São Lucas (2028)
-trabalho:  Estagiário DevOps @ SEDAM (GERDES) — GOVCLIMA
+trabalho:  Estagiário DevOps @ SEDAM (GERDES) 
 paixao:    Automação, infraestrutura como código e CTF
 idiomas:   Português (nativo) • Inglês (intermediário)
 ```
